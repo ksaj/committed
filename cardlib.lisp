@@ -16,4 +16,13 @@
   '#("Ace" 2 3 4 5 6 7 8 9 10 "Jack" "Queen" "King") "Card Ranks in order, without jokers")
 
 
+(defun kruskal ()
+  "Perform Kruskal Count. Optional word length (ACE
+   = 3) or default ACE = JACK = QUEEN = KING = 5)"
+  (format t "Coming Soon~%"))
+
+;; Maybe this belongs in (shuffle) function
+(defun gilbreath ()
+  "Perform Gilbreath shuffle."
+  (format t "Coming Soon~%"))
 
